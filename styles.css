@@ -44,6 +44,11 @@ header h1 {
   text-align: justify;
   left: 22%;
   height: 20vh;
+  color: rgba(233, 33, 99, 1);
+  font-weight: bold;
+  padding-bottom: 20%;
+  resize: horizontal;
+  overflow: auto;
 }
 
 #skills {
